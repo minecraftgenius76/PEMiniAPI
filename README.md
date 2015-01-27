@@ -1,2 +1,4 @@
 # MCPE-MiniGame-API
-Attempt to create skeleton code for MCPE mini-game common APIs | Future Use
+
+Initial Skeleton  Code to create common APIs for developing MCPE mini-games in pocketmine
+| Future Use
